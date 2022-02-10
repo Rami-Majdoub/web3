@@ -17,3 +17,8 @@
 [Visit website](https://dune.xyz/browse/dashboards)
 
 Ethereum Ecosystem analytics by and for the community. Explore and share data from Ethereum Mainnet, Matic, Optimism and xDai for free.
+
+#### Gitcoin
+[Visit website](https://gitcoin.co/)
+
+Build and Fund the Open Web Together
